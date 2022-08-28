@@ -32,20 +32,12 @@
 
 **9.** Escribír un programa que remueva la primer letra de un string ingresado por Consola
 
-**10.** Escribír un programa que, dado un número ingresado por Consola, muestre su tabla de multiplicar. Ejemplo:
+**10.** Ingresar dos números y chequear si ambos son pares
 
-```csharp
-Numero ingresado: 5
-: 5 x 1 = 5                                                                                      
-: 5 x 2 = 10                                                                                     
-: 5 x 3 = 15                                                                                     
-: 5 x 4 = 20                                                                                     
-: 5 x 5 = 25                                                                                     
-: 5 x 6 = 30                                                                                     
-: 5 x 7 = 35                                                                                     
-: 5 x 8 = 40                                                                                     
-: 5 x 9 = 45                                                                                     
-: 5 x 10 = 50 
-```
+**11.** Ingresar por consola el número de mes (1 a 12) y mostrar el nombre del mes ingresado.
 
-**11.** Ingresar dos números y chequear si ambos son pares
+**12.** Ingresar dos números y chequear si ambos son pares
+
+**13.** Desarrollar un programa que, dado 3 valores ingresados por consola, indique si con los mismos se puede formar un tríangulo. <code>Pista: Empezaría entendiendo cómo se forma un tríangulo a partír de 3 ángulos... </code>
+
+**14.** Desarrollar un programa que, dado 3 valores ingresados por consola, indique si con los mismos se puede formar un tríangulo. <code>Pista: Empezaría entendiendo cómo se forma un tríangulo a partír de 3 ángulos... </code>
