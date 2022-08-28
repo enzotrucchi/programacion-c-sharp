@@ -1,3 +1,5 @@
+# Ejercicios sobre iteración en C#
+
 **1.** Escribír un programa que, dado un número ingresado por Consola, muestre su tabla de multiplicar. Ejemplo:
 
 ```csharp
