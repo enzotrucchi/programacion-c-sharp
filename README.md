@@ -18,3 +18,5 @@
 - Entendé la teoría antes que resolver sin fundamentos.
 
 📚 Algunos más en mi libro: [De Junior al Infinito](https://dejunioralinfinito.com.ar)
+
+=> Tanto el profe de Primero B <strong>Alexi (@aleximanu84)</strong> como yo estamos disponibles para dudas y consultas!
