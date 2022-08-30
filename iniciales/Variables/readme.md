@@ -40,4 +40,4 @@
 
 **13.** Desarrollar un programa que, dado 3 valores ingresados por consola, indique si con los mismos se puede formar un tríangulo. <code>Pista: Empezaría entendiendo cómo se forma un tríangulo a partír de 3 ángulos... </code>
 
-**14.** Desarrollar un programa que, dado 3 valores ingresados por consola, indique si con los mismos se puede formar un tríangulo. <code>Pista: Empezaría entendiendo cómo se forma un tríangulo a partír de 3 ángulos... </code>
+**15.** Desarrollar un programa donde se debe ingresar por consola, el nombre del alumno y las notas de los dos primeros parciales, en base a este resultado, el programa debe definir si el alumno promoción, regularizo o desaprobó la materia. En el caso de que el alumno allá regularizado la materia, el programa debe pedir que ingrese la nota del final y nuevamente definir si el alumno aprobó o desaprobó la materia. <code>Nota: Las notas pueden usar decimales.</code>
