@@ -29,3 +29,11 @@ Numero ingresado: 5
  *                                                                                                       
 *******
 ```
+
+**4.** Ingresar dos números enteros y mostrar por consola el primer número la cantidad de veces que el segundo indique.
+```csharp
+int x = 3;
+int y = 2;
+
+Salida: 33
+```
