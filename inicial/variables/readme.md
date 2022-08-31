@@ -55,3 +55,12 @@ Nota Entera | Valor
 0,4| F
 
 <code>Pista: Tal vez una sentencia de control..</code>
+
+**16.** A partír de dos números ingresados, mostrar diferentes líneas con:
+- Su multiplicación
+- Su suma
+- Su resta
+- Su división
+- Su resto
+
+
