@@ -37,3 +37,12 @@ int y = 2;
 
 Salida: 33
 ```
+
+**5.** A partír de dos numeros ingresados, mostrar el rango de los mismos (incluídos). 
+Usar las tres sentencias de iteración que vimos.
+```csharp
+int x = 2;
+int y = 5;
+
+Salida: 2345
+```
