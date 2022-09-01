@@ -73,3 +73,21 @@ Crear y cargar una matriz de 3 filas por 4 columnas.
 Imprimir la primer fila. 
 Imprimir la última fila e imprimir la primer columna.
 
+---------
+
+**7.** 
+
+Dado un array de int, mostrar por consola el valor mínimo y el máximo. 
+
+---------
+
+**8.** 
+
+Escribir un programa que permita ingresar 5 valores (uno para cada posición de un array de enteros) y posterior a eso los muestre en consola.
+
+---------
+
+**9.** 
+
+Con el mismo array ingresado en el punto 8, recorrerlo y mostrarlo en orden inverso.
+
