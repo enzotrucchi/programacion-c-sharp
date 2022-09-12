@@ -33,4 +33,14 @@ Ingreso 51.
 Suma de 5+1 
 
 
+---------------------------------------------------
+
+
+**5**.
+
+Escribír una función que devuelva un array de strings hardcodeado, de títulos de películas.
+
+Con este array, llamar a otra función que indique si el título del elemento (se recorrerían todos los elementos) tiene un largo mayor a 5 y devuelva un nuevo array con los que cumplan esa condición.
+
+
 
