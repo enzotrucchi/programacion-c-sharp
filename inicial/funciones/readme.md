@@ -70,3 +70,21 @@ case 30:
 ```
 
 - Mejorar el código con buenas prácticas.
+
+
+---------------------------------------------------
+
+
+**7**.
+
+Dado el primer array de películas del punto 5, armar ahora una función que devuelva los que tengan películas con largo menor a 10 con el nombre invertido.
+
+---------------------------------------------------
+
+
+
+**8**.
+
+Dado el primer array de películas del punto 5, armar ahora una función que devuelva los que tengan películas con largo menor a 10 con el nombre invertido.
+
+---------------------------------------------------
