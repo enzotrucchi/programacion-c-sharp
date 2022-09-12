@@ -43,4 +43,30 @@ Escribír una función que devuelva un array de strings hardcodeado, de títulos
 Con este array, llamar a otra función que indique si el título del elemento (se recorrerían todos los elementos) tiene un largo mayor a 5 y devuelva un nuevo array con los que cumplan esa condición.
 
 
+---------------------------------------------------
 
+
+**6**.
+
+Dado el siguiente código: 
+
+chequearDatos(int etapa, int valor) {
+
+```c-sharp
+switch(etapa) {
+ case 10:
+ total = Valor + 10;
+ break;
+
+case 20:
+ Total = valor + 10;
+break;
+
+case 30:
+ total = Valor + 30;
+ break;
+
+}
+```
+
+- Mejorar el código con buenas prácticas.
