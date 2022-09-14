@@ -92,5 +92,6 @@ Escribir un programa que permita ingresar 5 valores (uno para cada posición de 
 Con el mismo array ingresado en el punto 8, recorrerlo y mostrarlo en orden inverso.
 
 **10.**
+
 Realizar un programa donde se genere un número aleatorio de 0 a 100 y el programa le pida al usuario que trate de adivinar el número generado. Por cada ingreso erróneo, el programa debe indicarle si el numero ingresado es mayor o menor al número generado. Una vez que ingrese el número correcto, mostrar los intentos que ingreso hasta adivinarlo. <code> Codigo para generar numero aleatorio:  Random rnd = new Random(); int numeroAleatorio = rnd.Next(0, 100);</code>
 
